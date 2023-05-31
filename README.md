@@ -1,5 +1,4 @@
-# DataExplorationLab
-Projetos de análise de dados 
+
 # DataExplorationLab
 
 Este repositório contém projetos de análise de dados desenvolvidos por mim. Estou estudando e gostaria de compartilhar meu conhecimento por meio desses projetos.
